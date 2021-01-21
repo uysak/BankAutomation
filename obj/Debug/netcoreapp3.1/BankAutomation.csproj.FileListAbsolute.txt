@@ -1,0 +1,13 @@
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\bin\Debug\netcoreapp3.1\BankAutomation.exe
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\bin\Debug\netcoreapp3.1\BankAutomation.deps.json
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\bin\Debug\netcoreapp3.1\BankAutomation.runtimeconfig.json
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\bin\Debug\netcoreapp3.1\BankAutomation.runtimeconfig.dev.json
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\bin\Debug\netcoreapp3.1\BankAutomation.dll
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\bin\Debug\netcoreapp3.1\BankAutomation.pdb
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\obj\Debug\netcoreapp3.1\BankAutomation.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\obj\Debug\netcoreapp3.1\BankAutomation.AssemblyInfoInputs.cache
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\obj\Debug\netcoreapp3.1\BankAutomation.AssemblyInfo.cs
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\obj\Debug\netcoreapp3.1\BankAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\obj\Debug\netcoreapp3.1\BankAutomation.dll
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\obj\Debug\netcoreapp3.1\BankAutomation.pdb
+C:\Users\Neo\source\repos\ClassMethodDemo\BankAutomation\obj\Debug\netcoreapp3.1\BankAutomation.genruntimeconfig.cache
